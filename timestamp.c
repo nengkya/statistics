@@ -11,7 +11,7 @@ int main() {
     }
     */
     const struct tm * time;
-    time_t raw_time;
+    time_t now; /* integer or floating point (fraction atau pecahan)*/
 
 
 }
